@@ -149,3 +149,9 @@ nav a:hover{
     border-radius: 30px;
     padding: 30px;
 }
+.form-control {
+    border-radius: 30px;
+}
+.input-group-addon {
+    border-radius: 30px;
+}

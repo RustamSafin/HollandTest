@@ -11,7 +11,7 @@ $this->title = 'My Yii Application';
         <div class="row">
             <div class="col-sm-12 col-md-3 col-md-offset-9">
                 <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Recipient's username"
+                    <input type="text" class="form-control" placeholder="Search"
                            aria-describedby="basic-addon2">
                     <span class="input-group-addon" id="basic-addon2"><i class="fas fa-search"></i></span>
                 </div>

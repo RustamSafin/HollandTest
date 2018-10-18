@@ -80,7 +80,7 @@ AppAsset::register($this);
         <?= $content ?>
     </div>
 </div>
-<a href="#" class="float">
+<a href="" class="float">
     <i class="fa fa-plus my-float"></i>
 </a>
 <?php $this->endBody() ?>
